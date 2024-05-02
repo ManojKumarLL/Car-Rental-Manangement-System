@@ -11,8 +11,8 @@
 ## INSTALLATION
 1. Clone the repository: `git clone https://github.com/ManojKumarLL/Car-Rental-Management-System.git`
 2. Navigate to the project directory: `cd Car-Rental-Management-System`
-3. Compile the code: `javac Main.java`
-4. Run the program: `java Main`
+3. Compile the code: `javac CarDatas.java`
+4. Run the program: `java CarDatas`
 
 ## Usage
   - Use the menu options to navigate through the application.
