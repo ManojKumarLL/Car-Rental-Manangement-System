@@ -9,8 +9,8 @@
           • Designed a user-friendly interface with menu-driven options for user interaction.
 
 ## INSTALLATION
-1. Clone the repository: `git clone https://github.com/ManojKumarLL/car-rental-management-system.git`
-2. Navigate to the project directory: `cd car-rental-management-system`
+1. Clone the repository: `git clone https://github.com/ManojKumarLL/Car-Rental-Management-System.git`
+2. Navigate to the project directory: `cd Car-Rental-Management-System`
 3. Compile the code: `javac Main.java`
 4. Run the program: `java Main`
 
